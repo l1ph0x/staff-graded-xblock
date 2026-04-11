@@ -1,0 +1,42 @@
+# edX translation file.
+# Copyright (C) 2026 EdX
+# This file is distributed under the GNU AFFERO GENERAL PUBLIC LICENSE.
+# EdX Team <info@edx.org>, 2026.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 0.1a\n"
+"Report-Msgid-Bugs-To: openedx-translation@googlegroups.com\n"
+"POT-Creation-Date: 2023-06-13 08:00+0000\n"
+"PO-Revision-Date: 2023-06-13 09:00+0000\n"
+"Last-Translator: \n"
+"Language-Team: openedx-translation <openedx-translation@googlegroups.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: staff_graded/static/js/src/staff_graded.js:10
+msgid "{error_count} error. Please try again. "
+msgid_plural "{error_count} errors. Please try again. "
+msgstr[0] ""
+msgstr[1] ""
+
+#: staff_graded/static/js/src/staff_graded.js:21
+msgid "Processed {row_count} row. "
+msgid_plural "Processed {row_count} rows. "
+msgstr[0] ""
+msgstr[1] ""
+
+#: staff_graded/static/js/src/staff_graded.js:25
+msgid "Updated scores for {row_count} learner."
+msgid_plural "Updated scores for {row_count} learners."
+msgstr[0] ""
+msgstr[1] ""
+
+#: staff_graded/static/js/src/staff_graded.js:61
+msgid ""
+"Files must be less than 4MB. Please split the file into smaller chunks and "
+"upload again."
+msgstr ""

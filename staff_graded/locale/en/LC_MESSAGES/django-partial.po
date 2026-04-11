@@ -1,0 +1,136 @@
+# edX translation file.
+# Copyright (C) 2026 EdX
+# This file is distributed under the GNU AFFERO GENERAL PUBLIC LICENSE.
+# EdX Team <info@edx.org>, 2026.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 0.1a\n"
+"Report-Msgid-Bugs-To: openedx-translation@googlegroups.com\n"
+"POT-Creation-Date: 2023-06-13 08:00+0000\n"
+"PO-Revision-Date: 2023-06-13 09:00+0000\n"
+"Last-Translator: \n"
+"Language-Team: openedx-translation <openedx-translation@googlegroups.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: staff_graded/staff_graded.py:53
+msgid "Display Name"
+msgstr ""
+
+#: staff_graded/staff_graded.py:54
+msgid "The display name for this component."
+msgstr ""
+
+#: staff_graded/staff_graded.py:56
+msgid "Staff Graded Points"
+msgstr ""
+
+#: staff_graded/staff_graded.py:59
+msgid "Instructions"
+msgstr ""
+
+#: staff_graded/staff_graded.py:60
+msgid "The instructions to the learner. Markdown format"
+msgstr ""
+
+#: staff_graded/staff_graded.py:63
+msgid "Your results will be graded offline"
+msgstr ""
+
+#: staff_graded/staff_graded.py:69
+msgid ""
+"Enter the number of points possible for this component.  The default value "
+"is 1.0.  "
+msgstr ""
+
+#: staff_graded/staff_graded.py:140
+#, python-brace-format
+msgid "{score} / {total} points"
+msgstr ""
+
+#: staff_graded/staff_graded.py:142
+#, python-brace-format
+msgid "{total} points possible"
+msgstr ""
+
+#: staff_graded/staff_graded.py:190
+msgid "Dummy"
+msgstr ""
+
+#: staff_graded/staff_graded.py:205
+msgid "missing file"
+msgstr ""
+
+#: staff_graded/static/html/staff_graded.html:17
+msgid "Step 1:"
+msgstr ""
+
+#: staff_graded/static/html/staff_graded.html:17
+msgid "Export scores."
+msgstr ""
+
+#: staff_graded/static/html/staff_graded.html:18
+msgid ""
+"Download a grading CSV and use this as a template to assign scores for this "
+"problem."
+msgstr ""
+
+#: staff_graded/static/html/staff_graded.html:20
+msgid "Choose a track and/or cohort:"
+msgstr ""
+
+#: staff_graded/static/html/staff_graded.html:21
+msgid "Enrollment Track"
+msgstr ""
+
+#: staff_graded/static/html/staff_graded.html:22
+msgid "(All Tracks)"
+msgstr ""
+
+#: staff_graded/static/html/staff_graded.html:27
+msgid "Cohort"
+msgstr ""
+
+#: staff_graded/static/html/staff_graded.html:28
+msgid "(All Cohorts)"
+msgstr ""
+
+#: staff_graded/static/html/staff_graded.html:34
+msgid "export scores"
+msgstr ""
+
+#: staff_graded/static/html/staff_graded.html:36
+msgid "Step 2:"
+msgstr ""
+
+#: staff_graded/static/html/staff_graded.html:36
+msgid "(On your own machine) Fill out grades."
+msgstr ""
+
+#: staff_graded/static/html/staff_graded.html:37
+msgid ""
+"Open the CSV in a spreadsheet editor and assign scores to learners via “New "
+"Points” field. Leave scores that you don’t want to change blank."
+msgstr ""
+
+#: staff_graded/static/html/staff_graded.html:39
+msgid "Step 3:"
+msgstr ""
+
+#: staff_graded/static/html/staff_graded.html:39
+msgid "Import scores."
+msgstr ""
+
+#: staff_graded/static/html/staff_graded.html:40
+msgid ""
+"Upload the filled out CSV. Learners will immediately see their grades after "
+"import completes."
+msgstr ""
+
+#: staff_graded/static/html/staff_graded.html:41
+msgid "Note: Supports file sizes up to 4MB."
+msgstr ""
