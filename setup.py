@@ -89,5 +89,6 @@ setup(
             'staffgradedxblock = staff_graded:StaffGradedXBlock',
         ]
     },
-    package_data=package_data("staff_graded", ["static", "public"]),
+    #package_data=package_data("staff_graded", ["static", "public"]),
+    package_data=package_data("staff_graded", ["static", "public", "locale"]),
 )

@@ -1,1 +1,4 @@
 include requirements/base.in
+recursive-include staff_graded/locale *
+recursive-include staff_graded/public *
+recursive-include staff_graded/static *
